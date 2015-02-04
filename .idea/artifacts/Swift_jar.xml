@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Swift:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="Swift.jar">
+      <element id="module-output" name="Swift" />
+    </root>
+  </artifact>
+</component>
